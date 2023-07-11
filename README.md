@@ -1,5 +1,5 @@
 
-# Hi, I'm Atharv! 👋
+# Hi, I'm Krishna! 👋
 ![Logo](https://cdni.iconscout.com/illustration/premium/thumb/coder-3462295-2895977.png)
 
 
