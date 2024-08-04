@@ -15,9 +15,9 @@ Hello there! Welcome to my personal README.md file. My name is Krishna Subhash P
 
 ## 🛠 Skills
 
-👩‍💻 Programming Languages: I am proficient in languages such as JavaScript, Python, Java, and C++. I have experience with both front-end and back-end development.
+👩‍💻 Programming Languages: I am proficient in languages such as JavaScript & Java. I have some experience with both front-end and back-end development.
 
-🕸️ Web Development: I have hands-on experience in developing responsive web applications using modern web technologies like HTML5, CSS3, and more.
+🕸️ Web Development: I have some hands-on experience in developing responsive web applications using modern web technologies like HTML5, CSS3, and more.
 
 🧠 Back-end Development: I am familiar with server-side technologies such as Node.js and I have worked with databases like MySQL.
 
