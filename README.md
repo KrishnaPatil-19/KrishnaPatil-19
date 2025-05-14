@@ -16,8 +16,8 @@ Hello there! Welcome to my personal README.md file. My name is Krishna Subhash P
 ## 🛠 Skills
 
 ### Technical Skills
-  Languages: HTML, CSS, JavaScript  
-	Familiar With: Java, C, C++, Git & GitHub for version control.s efficiently.
+  #### Languages: HTML, CSS, JavaScript  
+  #### Familiar With: Java, C, C++, Git & GitHub for version control.s efficiently.
 
 ### Soft Skills
   Communication, Problem-solving, Teamwork, Leadership, Adaptability.
