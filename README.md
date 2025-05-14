@@ -8,7 +8,7 @@ Hello there! Welcome to my personal README.md file. My name is Krishna Subhash P
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://projectsbykrishnapatil.on.drv.tw/Portfolio%20website%20Krishna/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://krishnapatil-19.github.io/Portfolio-Website/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-patil-759269249/)
 
 
